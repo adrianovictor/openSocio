@@ -1,4 +1,4 @@
-namespace OpenSocio.Persitency.DataContexts
+namespace OpenSocio.Persistency.DataContexts
 {
     public interface IDataContext
     {
