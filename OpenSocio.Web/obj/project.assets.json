@@ -12943,11 +12943,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\adria\\Documents\\Visual Studio Code\\Projects\\OpenSocio\\opensocio\\opensocio.web\\OpenSocio.Web.csproj",
+      "projectUniqueName": "C:\\Users\\adria\\Documents\\Visual Studio Code\\Projects\\OpenSocio\\OpenSocio\\OpenSocio.Web\\OpenSocio.Web.csproj",
       "projectName": "OpenSocio.Web",
-      "projectPath": "C:\\Users\\adria\\Documents\\Visual Studio Code\\Projects\\OpenSocio\\opensocio\\opensocio.web\\OpenSocio.Web.csproj",
+      "projectPath": "C:\\Users\\adria\\Documents\\Visual Studio Code\\Projects\\OpenSocio\\OpenSocio\\OpenSocio.Web\\OpenSocio.Web.csproj",
       "packagesPath": "C:\\Users\\adria\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\adria\\Documents\\Visual Studio Code\\Projects\\OpenSocio\\opensocio\\opensocio.web\\obj\\",
+      "outputPath": "C:\\Users\\adria\\Documents\\Visual Studio Code\\Projects\\OpenSocio\\OpenSocio\\OpenSocio.Web\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackagesFallback\\",
@@ -12968,14 +12968,14 @@
       "frameworks": {
         "netcoreapp2.0": {
           "projectReferences": {
-            "C:\\Users\\adria\\Documents\\Visual Studio Code\\Projects\\OpenSocio\\opensocio\\OpenSocio.Common\\OpenSocio.Common.csproj": {
-              "projectPath": "C:\\Users\\adria\\Documents\\Visual Studio Code\\Projects\\OpenSocio\\opensocio\\OpenSocio.Common\\OpenSocio.Common.csproj"
+            "C:\\Users\\adria\\Documents\\Visual Studio Code\\Projects\\OpenSocio\\OpenSocio\\OpenSocio.Common\\OpenSocio.Common.csproj": {
+              "projectPath": "C:\\Users\\adria\\Documents\\Visual Studio Code\\Projects\\OpenSocio\\OpenSocio\\OpenSocio.Common\\OpenSocio.Common.csproj"
             },
-            "C:\\Users\\adria\\Documents\\Visual Studio Code\\Projects\\OpenSocio\\opensocio\\OpenSocio.Domain.Common\\OpenSocio.Domain.Common.csproj": {
-              "projectPath": "C:\\Users\\adria\\Documents\\Visual Studio Code\\Projects\\OpenSocio\\opensocio\\OpenSocio.Domain.Common\\OpenSocio.Domain.Common.csproj"
+            "C:\\Users\\adria\\Documents\\Visual Studio Code\\Projects\\OpenSocio\\OpenSocio\\OpenSocio.Domain.Common\\OpenSocio.Domain.Common.csproj": {
+              "projectPath": "C:\\Users\\adria\\Documents\\Visual Studio Code\\Projects\\OpenSocio\\OpenSocio\\OpenSocio.Domain.Common\\OpenSocio.Domain.Common.csproj"
             },
-            "C:\\Users\\adria\\Documents\\Visual Studio Code\\Projects\\OpenSocio\\opensocio\\OpenSocio.Domain.Model\\OpenSocio.Domain.Model.csproj": {
-              "projectPath": "C:\\Users\\adria\\Documents\\Visual Studio Code\\Projects\\OpenSocio\\opensocio\\OpenSocio.Domain.Model\\OpenSocio.Domain.Model.csproj"
+            "C:\\Users\\adria\\Documents\\Visual Studio Code\\Projects\\OpenSocio\\OpenSocio\\OpenSocio.Domain.Model\\OpenSocio.Domain.Model.csproj": {
+              "projectPath": "C:\\Users\\adria\\Documents\\Visual Studio Code\\Projects\\OpenSocio\\OpenSocio\\OpenSocio.Domain.Model\\OpenSocio.Domain.Model.csproj"
             }
           }
         }

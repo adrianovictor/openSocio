@@ -4,4 +4,10 @@
     <TargetFramework>netstandard2.0</TargetFramework>
   </PropertyGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\OpenSocio.Common\OpenSocio.Common.csproj" />
+    <ProjectReference Include="..\OpenSocio.Domain.Common\OpenSocio.Domain.Common.csproj" />
+    <ProjectReference Include="..\OpenSocio.Domain.Model\OpenSocio.Domain.Model.csproj" />
+  </ItemGroup>
+
 </Project>
