@@ -1,0 +1,17 @@
+C:\Users\adria\Documents\Visual Studio Code\Projects\OpenSocio\OpenSocio\Infrastructure\OpenSocio.Common\bin\Debug\netstandard2.0\OpenSocio.Common.deps.json
+C:\Users\adria\Documents\Visual Studio Code\Projects\OpenSocio\OpenSocio\Infrastructure\OpenSocio.Common\bin\Debug\netstandard2.0\OpenSocio.Common.dll
+C:\Users\adria\Documents\Visual Studio Code\Projects\OpenSocio\OpenSocio\Infrastructure\OpenSocio.Common\bin\Debug\netstandard2.0\OpenSocio.Common.pdb
+C:\Users\adria\Documents\Visual Studio Code\Projects\OpenSocio\OpenSocio\Infrastructure\OpenSocio.Common\obj\Debug\netstandard2.0\OpenSocio.Common.csproj.CoreCompileInputs.cache
+C:\Users\adria\Documents\Visual Studio Code\Projects\OpenSocio\OpenSocio\Infrastructure\OpenSocio.Common\obj\Debug\netstandard2.0\OpenSocio.Common.AssemblyInfoInputs.cache
+C:\Users\adria\Documents\Visual Studio Code\Projects\OpenSocio\OpenSocio\Infrastructure\OpenSocio.Common\obj\Debug\netstandard2.0\OpenSocio.Common.AssemblyInfo.cs
+C:\Users\adria\Documents\Visual Studio Code\Projects\OpenSocio\OpenSocio\Infrastructure\OpenSocio.Common\obj\Debug\netstandard2.0\OpenSocio.Common.dll
+C:\Users\adria\Documents\Visual Studio Code\Projects\OpenSocio\OpenSocio\Infrastructure\OpenSocio.Common\obj\Debug\netstandard2.0\OpenSocio.Common.pdb
+C:\Users\adria\Documents\Visual Studio Code\Projects\OpenSocio\OpenSocio\OpenSocio.Common\bin\Debug\netstandard2.0\OpenSocio.Common.deps.json
+C:\Users\adria\Documents\Visual Studio Code\Projects\OpenSocio\OpenSocio\OpenSocio.Common\bin\Debug\netstandard2.0\OpenSocio.Common.dll
+C:\Users\adria\Documents\Visual Studio Code\Projects\OpenSocio\OpenSocio\OpenSocio.Common\bin\Debug\netstandard2.0\OpenSocio.Common.pdb
+C:\Users\adria\Documents\Visual Studio Code\Projects\OpenSocio\OpenSocio\OpenSocio.Common\obj\Debug\netstandard2.0\OpenSocio.Common.csprojResolveAssemblyReference.cache
+C:\Users\adria\Documents\Visual Studio Code\Projects\OpenSocio\OpenSocio\OpenSocio.Common\obj\Debug\netstandard2.0\OpenSocio.Common.csproj.CoreCompileInputs.cache
+C:\Users\adria\Documents\Visual Studio Code\Projects\OpenSocio\OpenSocio\OpenSocio.Common\obj\Debug\netstandard2.0\OpenSocio.Common.AssemblyInfoInputs.cache
+C:\Users\adria\Documents\Visual Studio Code\Projects\OpenSocio\OpenSocio\OpenSocio.Common\obj\Debug\netstandard2.0\OpenSocio.Common.AssemblyInfo.cs
+C:\Users\adria\Documents\Visual Studio Code\Projects\OpenSocio\OpenSocio\OpenSocio.Common\obj\Debug\netstandard2.0\OpenSocio.Common.dll
+C:\Users\adria\Documents\Visual Studio Code\Projects\OpenSocio\OpenSocio\OpenSocio.Common\obj\Debug\netstandard2.0\OpenSocio.Common.pdb

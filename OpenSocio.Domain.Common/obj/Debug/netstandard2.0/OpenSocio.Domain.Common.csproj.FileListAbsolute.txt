@@ -1,0 +1,15 @@
+C:\Users\adria\Documents\Visual Studio Code\Projects\OpenSocio\OpenSocio\Domain\OpenSocio.Domain.Common\obj\Debug\netstandard2.0\OpenSocio.Domain.Common.csproj.CoreCompileInputs.cache
+C:\Users\adria\Documents\Visual Studio Code\Projects\OpenSocio\OpenSocio\Domain\OpenSocio.Domain.Common\obj\Debug\netstandard2.0\OpenSocio.Domain.Common.AssemblyInfoInputs.cache
+C:\Users\adria\Documents\Visual Studio Code\Projects\OpenSocio\OpenSocio\Domain\OpenSocio.Domain.Common\obj\Debug\netstandard2.0\OpenSocio.Domain.Common.AssemblyInfo.cs
+C:\Users\adria\Documents\Visual Studio Code\Projects\OpenSocio\OpenSocio\OpenSocio.Domain.Common\bin\Debug\netstandard2.0\OpenSocio.Domain.Common.deps.json
+C:\Users\adria\Documents\Visual Studio Code\Projects\OpenSocio\OpenSocio\OpenSocio.Domain.Common\bin\Debug\netstandard2.0\OpenSocio.Domain.Common.dll
+C:\Users\adria\Documents\Visual Studio Code\Projects\OpenSocio\OpenSocio\OpenSocio.Domain.Common\bin\Debug\netstandard2.0\OpenSocio.Domain.Common.pdb
+C:\Users\adria\Documents\Visual Studio Code\Projects\OpenSocio\OpenSocio\OpenSocio.Domain.Common\bin\Debug\netstandard2.0\OpenSocio.Common.dll
+C:\Users\adria\Documents\Visual Studio Code\Projects\OpenSocio\OpenSocio\OpenSocio.Domain.Common\bin\Debug\netstandard2.0\OpenSocio.Common.pdb
+C:\Users\adria\Documents\Visual Studio Code\Projects\OpenSocio\OpenSocio\OpenSocio.Domain.Common\obj\Debug\netstandard2.0\OpenSocio.Domain.Common.csprojResolveAssemblyReference.cache
+C:\Users\adria\Documents\Visual Studio Code\Projects\OpenSocio\OpenSocio\OpenSocio.Domain.Common\obj\Debug\netstandard2.0\OpenSocio.Domain.Common.csproj.CoreCompileInputs.cache
+C:\Users\adria\Documents\Visual Studio Code\Projects\OpenSocio\OpenSocio\OpenSocio.Domain.Common\obj\Debug\netstandard2.0\OpenSocio.Domain.Common.AssemblyInfoInputs.cache
+C:\Users\adria\Documents\Visual Studio Code\Projects\OpenSocio\OpenSocio\OpenSocio.Domain.Common\obj\Debug\netstandard2.0\OpenSocio.Domain.Common.AssemblyInfo.cs
+C:\Users\adria\Documents\Visual Studio Code\Projects\OpenSocio\OpenSocio\OpenSocio.Domain.Common\obj\Debug\netstandard2.0\OpenSocio.Domain.Common.csproj.CopyComplete
+C:\Users\adria\Documents\Visual Studio Code\Projects\OpenSocio\OpenSocio\OpenSocio.Domain.Common\obj\Debug\netstandard2.0\OpenSocio.Domain.Common.dll
+C:\Users\adria\Documents\Visual Studio Code\Projects\OpenSocio\OpenSocio\OpenSocio.Domain.Common\obj\Debug\netstandard2.0\OpenSocio.Domain.Common.pdb
