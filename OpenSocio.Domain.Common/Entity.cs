@@ -11,9 +11,14 @@ namespace OpenSocio.Domain.Common
         public DateTime? UpdatedAt { get; set; }
         public int? UpdatedBy { get; set; }
 
-        public bool IsTransient()
+        public virtual bool IsPersisted()
         {
-            return this.Id == default(Int32);
+            return !IsTransient();
+        }
+
+        protected virtual bool IsTransient()
+        {
+            return Id == default(Int32);
         }
     }
 }

@@ -1,4 +1,4 @@
-namespace OpenSocio.Common
+namespace OpenSocio.Common.Extensions
 {
     public static class ObjectExtensions
     {
@@ -15,6 +15,11 @@ namespace OpenSocio.Common
         public static bool IsNotNullOrEmpty(this object obj)
         {
             return obj.IsNull() && obj.ToString().IsNotEmpty();
-        }        
+        }
+
+        public static bool IsNullOrEmpty(this object obj)
+        {
+            return obj.IsNull() || obj.ToString().IsEmpty();
+        }
     }
 }

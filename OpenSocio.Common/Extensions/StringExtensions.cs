@@ -1,6 +1,6 @@
 using System.Text.RegularExpressions;
 
-namespace OpenSocio.Common
+namespace OpenSocio.Common.Extensions
 {
     public static class StringExtensions
     {

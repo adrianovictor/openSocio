@@ -1,10 +1,10 @@
 namespace OpenSocio.Domain.Model.Account
 {
-    public enum UserStatus
+    public enum PlanStatus
     {
         Active = 1,
         Inactive,
         Blocked,
         Deleted
-    };
+    }; 
 }
